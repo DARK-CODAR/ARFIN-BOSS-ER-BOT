@@ -1,23 +1,41 @@
 ---------
 
-### 𝐀𝐑𝐅𝐈𝐍 𝐁𝐎𝐒𝐒 𝐄𝐑 𝐁𝐎𝐓 ☠︎︎   🌺
+### 𝐀𝐑𝐅𝐈𝐍 𝐄𝐑🌺𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ☢️
+❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
 
-❖ **`A Messenger Multi Device Bot To Take Your Messenger To Another Level!`** 
+----------
+## CLICK <a href="https://github.com/cyber-ARFIN/CYBER-BOT-COMMUNITY/issues">HERE IF YOU ARE NEW TO BOTS</a>
 
 
 
-Assalamualaikum Everyone!  
-**Welcome to My ARFIN CHAT BOT Fork!**
 
-![Box-shaped Image](https://i.imgur.com/u7VnPzH.png)
+-------
 
-<p align="center" style="animation: glow 2s infinite alternate; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <span style="font-size: 24px; font-weight: bold;">𝐀𝐑𝐅𝐈𝐍 𝐁𝐎𝐒𝐒 𝐄𝐑 𝐁𝐎𝐓 ☠︎︎ </span><br>
-  <span> Develop By 𝐀𝐑𝐅𝐈𝐍 𝐈𝐒𝐋𝐀𝐌 𝐀𝐅𝐈 </span>
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸+𝗰𝗵𝗮𝘁+𝗯𝗼𝘁+V2`" alt="">
+
+<br>
+
+--------
+
+<p align="center">
+<a href="https://github.com/cyber-ARFIN/"><img title="Followers" src="https://img.shields.io/github/followers/cyber-ARFIN?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyber-ARFIN/CYBER-BOT-COMMUNITY/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyber-ARFIN/CYBER-BOT-COMMUNITY/?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyber-ARFIN/CYBER-BOT-COMMUNITY/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cyber-ARFIN/CYBER-BOT-COMMUNITY?color=blue&style=flat-square"></a>
+<a href="https://github.com/cyber-ARFIN/CYBER-BOT-COMMUNITY/"><img title="Size" src="https://img.shields.io/github/repo-size/cyber-ARFIN/CYBER-BOT-COMMUNITY?style=flat-square&color=blue"></a>
+<a href="https://github.com/cyber-ARFIN/CYBER-BOT-COMMUNITY/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
 </p>
 
+-----------
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ☢️</div>
 
-_______
+------------
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ### <br>   ❖ DEPLOY_WORKFLOWS ❖
 ```
 name: Node.js CI
@@ -58,131 +76,90 @@ jobs:
       run: npm start
 ```
 
-___
+---------
 
-## 🔥 Features  
+-------------
 
-**• Auto Chat**  
-Enjoy automatic and seamless conversations through natural language processing.  
+-----------
 
-**• Photo Editing**  
-Edit professional quality photos using our advanced commands, no additional apps needed.  
+`I extend my heartfelt thanks and gratitude to everyone who helped me in creating this bot.
 
-**• Image Generation**  
-Create unique images using our cutting-edge text-to-image technology.  
-
-**• Video Downloader**  
-Download HD videos from YouTube, Facebook, TikTok and other platforms.  
-
-**• Interactive Games**  
-Play 20+ fun games directly in messenger, no installation hassle!  
-
-**• Fun Commands**  
-Surprise your friends with hundreds of fun commands!  
-___
-
-<div style="max-width: 500px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-
-  <h2 style="text-align: center; margin-bottom: 30px;">How to Use These Platforms</h2>
-
-  <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-    <img src="https://img.icons8.com/color/48/000000/replit.png" alt="Replit" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">Replit</h3>
-      <p style="margin: 0;">
-        Replit is an online coding environment that lets you write, run, and test code directly from your browser without any setup.  
-        Simply sign up for a free account, create a new project (called a “Repl”), and start coding in languages like JavaScript, Python, C++, and many more.  
-        It’s perfect for quick prototyping, learning programming, or collaborating with others in real-time.  
-        You can also host simple web apps and share your projects with a public URL instantly.
-      </p>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: flex-start; margin-bottom: 30px;">
-    <img src="https://img.icons8.com/fluency/48/000000/cloud.png" alt="Render" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">Render</h3>
-      <p style="margin: 0;">
-        Render is a cloud hosting platform that allows you to deploy websites, APIs, and applications easily without worrying about server management.  
-        After developing your app locally or on Replit, you can push your code to Render for continuous deployment.  
-        It supports popular frameworks, automatic SSL, custom domains, and background workers.  
-        This platform is ideal for developers who want hassle-free hosting with scalable resources.
-      </p>
-    </div>
-  </div>
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" style="margin-right: 20px; flex-shrink: 0;" />
-    <div>
-      <h3 style="margin: 0 0 8px;">GitHub</h3>
-      <p style="margin: 0;">
-        GitHub is a web-based platform for version control and collaborative code management using Git.  
-        It lets you store your code repositories securely, track changes, and collaborate with other developers through pull requests and issues.  
-        GitHub also supports project documentation via README files and wikis, and it integrates with many CI/CD tools to automate workflows.  
-        Use GitHub to manage your projects efficiently and share your code with the developer community.
-      </p>
-    </div>
-  </div>
-
-</div>
+### 🔳 Special Thanks:
+- ✨ ARFIN ISLAM AFI  
+- 💡 TUHIN KHAN ABIR
 
 
-
+Each of your contributions has been a great inspiration to me.
 
 ---
 
+### [🌺 ｢𝐈 𝐂 𝐂｣ 🌺](https://m.me/arfinislamafi69/)  
 
+### [🌼💋 ARFIN এ্ঁর্ঁ ফে্ঁমা্ঁস্ঁ সি্ঁটি্ঁ 😘🥀](https://m.me/arfinislamafi69/)  
+Heartfelt love and gratitude to all the members of this group as well.  
+---
 
+May this journey continue with all of you by my side, **In Shaa Allah**.`
 
-## 👨‍💻 **ABOUT THE DEVELOPER**  
+----------
+
+Thanks For Using 𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸 𝗰𝗵𝗮𝘁 𝗯𝗼𝘁  
+<!-- Header Section -->
+<h1 align="center">Hi 👋, I'm HITERRIR</h1>
+<h1 align="center">Hi 👋, I'm ETHICAL HACKER</h1>
+<h3 align="center">A CS student passion in Competitive Programming</h3>
+
+<!-- Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=3Emran&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+---
+## 📊 GitHub Stats
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=3Emran&show_icons=true&count_private=true&theme=tokyonight" alt="Emran's GitHub Stats" />
+  <!-- Top Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3Emran&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+---
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=3Emran&theme=tokyonight&hide_border=true&fire=DD2727" alt="GitHub Streak" />
+</p>
+---
+## 🛠️ Tech Stacks
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   
-**Name:** **`ARFIN ISLAM AFI`**  
-**NiCK Name:** **`ARFIN`**  
-**Profession:** **`STUDENT & PROGRAMING`**  
-**Location:** **`FARIDPUR,DHAKA, BANGLADESH`**  
-
-### 📞 **CONTACT INFORMATION**  
-- **WhatsApp:** **[01928 190023](https://wa.me/+01928190023)**  
-- **Facebook:** **[Facebook ID](https://facebook.com/arfinislamafi69)**  
-- **Messenger:** **[Message](https://m.me/arfinislamafi69)**  
-
-<br>
-<h1>𝐀𝐑𝐅𝐈𝐍 𝐁𝐎𝐒𝐒 𝐄𝐑 𝐁𝐎𝐓 ☠︎︎</h1>
-<br>
-
-
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 ---
-
-
-
-
-
-## ❖ SUPPORT  
-If you need any help, you can contact the admin.
-
-
+## 🌐 My Competitive Programming Handles
 <p align="center">
-  <a href="https://wa.me/+8801928190023?text=Assalamualaikum%20Admin%20ARFIN%20Afi%20Need%20Help%20Please%20Brother%20🫶">
-    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://www.hackerrank.com/profile/Ascending" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://m.me/100001039692046">
-    <img alt="Messenger" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white">
+  <a href="https://vjudge.net/user/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/VirtualJudge-6C757D?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualJudge" />
+  </a>
+  <a href="https://www.codechef.com/users/emran_h" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
 </p>
+---
+## 💡 About Me
+- 🚀 **Currently Working On**: Solving competitive programming challenges.
+- 📚 **Learning**: Data Structures, Algorithms, and Problem-Solving.
 
---
-<br>
---
-
-<p align="center">
-  <img src="https://img.icons8.com/emoji/48/000000/star-emoji.png" alt="Star" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/CYBER-ARFIN"><img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub"></a>
-  <a href="https://wa.me/+8801928190023"><img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"></a>
-  <a href="https://facebook.com/100001039692046"><img src="https://img.icons8.com/fluency/48/000000/facebook.png" alt="Facebook"></a>
-  <a href="https://t.me/ARFINAFI"><img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"></a>
-</p>
-
-**I hope you enjoy my fork! Thank you ?
+# note-app
+# note-app
+# note-app
