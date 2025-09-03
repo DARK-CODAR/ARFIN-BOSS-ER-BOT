@@ -65,10 +65,9 @@ module.exports.run = async function({ api, event, args, Users, Threads }) {
  😍──⃝‌‌𝐀𝐑𝐅𝐈𝐍 𝐁𝐎𝐒𝐒 𝐄𝐑 𝐁𝐎𝐓 ☠︎︎ 😘`;
 
     const imgLinks = [
-        "https://imgur.com/TS7MP4u",
-        "https://i.imgur.com/sxSn1K3.jpeg",
-        "https://imgur.com/HqNSS5M",
-        "https://imgur.com/DCb0sST"
+        "https://imgur.com/TS7MP4u.jpg",
+        "https://imgur.com/HqNSS5M.jpg",
+        "https://imgur.com/DCb0sST.jpeg"
     ];
 
     const imgLink = imgLinks[Math.floor(Math.random() * imgLinks.length)];
