@@ -29,7 +29,7 @@
 </p>
 
 -----------
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>—͟͟͞͞𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ☢️</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>𝐀𝐑𝐅𝐈𝐍 𝐁𝐎𝐒𝐒 𝐄𝐑 𝐁𝐎𝐓 ☠︎︎ ☢️</div>
 
 ------------
 
