@@ -1,6 +1,7 @@
 ---------
 
 ### 𝐀𝐑𝐅𝐈𝐍 𝐄𝐑🌺𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ☢️
+</hr>
 ❖ **`A Massanger  Multi Device Bot To Take Your Massanger To Another Level !`** ❖
 
 ----------
@@ -12,7 +13,7 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`𝗜𝘀𝗹𝗮𝗺𝗶𝗰𝗸+𝗰𝗵𝗮𝘁+𝗯𝗼𝘁+V2`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=cyan&center=true&vCenter=true&multiline=false&lines=`ARFIN ER BOT`" alt="">
 
 <br>
 
